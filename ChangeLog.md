@@ -264,7 +264,7 @@ Other enhancements:
 * British English spelling of 'color' (colour) accepted as an alias for
   `--color`, `--stack-colors`, `stack ls stack-colors` at the command line and
   for `color:` and `stack-colors:` in yaml configuration files.
-* New build option `--ddump-dir`. (See 
+* New build option `--ddump-dir`. (See
   [#4225](https://github.com/commercialhaskell/stack/issues/4225))
 * Stack parses and respects the `preferred-versions` information from
   Hackage for choosing latest version of a package in some cases,
