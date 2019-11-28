@@ -454,7 +454,7 @@ GETDISTRO
     fedora)
       do_fedora_install "$VERSION"
       ;;
-    centos|rhel|redhatenterpriseserver|redhatenterpriseworkstation)
+    centos|rhel|redhatenterpriseserver)
       do_centos_install "$VERSION"
       ;;
     alpine)
